@@ -1,0 +1,4 @@
+app:
+  script: python3
+  script-path: /home/ubuntu/image_classification.py
+  download-dir: /home/ubuntu/images/

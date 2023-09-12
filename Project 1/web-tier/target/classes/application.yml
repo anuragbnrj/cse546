@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+aws:
+  accessKey: AKIASQEPCWXYL3EB57T6
+  secretKey: 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
+  region: us-east-1
+  s3:
+    bucketName: image-uploads-abaner40
+  sqs:
+    queueName: cse546-project1-request-queue
+    requestQueueUrl: https://sqs.us-east-1.amazonaws.com/172098762224/cse546-project1-request-queue
+    responseQueueUrl: https://sqs.us-east-1.amazonaws.com/172098762224/cse546-project1-response-queue

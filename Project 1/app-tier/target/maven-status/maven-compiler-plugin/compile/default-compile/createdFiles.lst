@@ -1,0 +1,5 @@
+cloud/projects/app/service/SqsService.class
+cloud/projects/app/dto/ClassifierResult.class
+cloud/projects/app/service/S3Service.class
+cloud/projects/app/AppTierApplication.class
+cloud/projects/app/service/PythonService.class

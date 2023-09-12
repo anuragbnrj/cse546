@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: app-tier
+  profiles:
+    active: ubuntu
+aws:
+  access-key: AKIASQEPCWXYL3EB57T6
+  secret-key: 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
+  region: us-east-1
+  sqs:
+    req-queue-url: https://sqs.us-east-1.amazonaws.com/172098762224/cse546-project1-request-queue
+    res-queue-url: https://sqs.us-east-1.amazonaws.com/172098762224/cse546-project1-response-queue
+  s3:
+    input-bucket: image-uploads-abaner40
+    output-bucket: image-classification-abaner40

@@ -1,0 +1,4 @@
+app:
+  script: python
+  script-path: src/main/resources/test.py
+  download-dir: src/main/resources/
