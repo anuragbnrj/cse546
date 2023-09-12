@@ -2,8 +2,8 @@ server:
   port: 8080
 
 aws:
-  accessKey: AKIASQEPCWXYL3EB57T6
-  secretKey: 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
+  accessKey: 
+  secretKey: 
   region: us-east-1
   s3:
     bucketName: image-uploads-abaner40

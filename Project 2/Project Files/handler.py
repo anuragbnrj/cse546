@@ -12,8 +12,8 @@ from boto3.session import Session
 
 
 TABLE_NAME = "cse546_student_data"
-ACCESS_KEY = "AKIASQEPCWXYL3EB57T6"
-SECRET_KEY = "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"
+ACCESS_KEY = 
+SECRET_KEY = 
 VIDEO_UPLOAD_BUCKET = "cse546-project2-video-uploads-abaner40"
 CLASSIFICATION_RESULT_BUCKET = "cse546-project2-classification-outputs-abaner40"
 

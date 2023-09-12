@@ -5,8 +5,8 @@ import sys
 import csv
 
 TABLE_NAME = 'cse546_student_data'
-ACCESS_KEY_ID = 'AKIASQEPCWXYL3EB57T6'
-SECRET_KEY = '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'
+ACCESS_KEY_ID = 
+SECRET_KEY = 
 CLASSIFICATION_RESULT_BUCKET = 'cse546-project2-classification-outputs-abaner40'
 REGION = 'us-east-1'
 

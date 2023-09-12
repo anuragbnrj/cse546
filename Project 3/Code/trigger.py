@@ -5,8 +5,8 @@ from time import time, sleep
 import sys
 
 TABLE_NAME = 'cse546_student_data'
-ACCESS_KEY_ID = 'AKIASQEPCWXYL3EB57T6'
-SECRET_KEY = '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'
+ACCESS_KEY_ID =
+SECRET_KEY = 
 VIDEO_UPLOAD_BUCKET = 'cse546-project2-video-uploads-abaner40'
 LAMBDA_NAME = 'cse546-projecct3-lambda'
 REGION = 'us-east-1'
